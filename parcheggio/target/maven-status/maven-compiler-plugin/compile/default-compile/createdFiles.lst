@@ -1,0 +1,9 @@
+Principale/Parcheggio/Models/ChargeRequest.class
+Principale/Parcheggio/Models/Reservation.class
+Principale/Parcheggio/Models/ParkingSpot.class
+Principale/Parcheggio/Repository/UserRepository.class
+Principale/Parcheggio/ParcheggioApplication.class
+Principale/Parcheggio/Models/User.class
+Principale/Parcheggio/Models/Payment.class
+Principale/Parcheggio/Services/UserService.class
+Principale/Parcheggio/Controllers/UserController.class
